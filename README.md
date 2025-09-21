@@ -87,6 +87,17 @@ void trayBackward()     // Return tray to start position
 - **Power Supply**: Standard Arduino power requirements
 - **Build Material**: Wooden frame construction for cost-effectiveness
 
+# Project Images
+
+![Machine Overview](./images/machine.jpg)
+*Complete book manufacturing machine with control panel*
+
+![Internal Mechanism](./images/internal_mechanism.jpg)
+*Internal view showing cutting, stapling, and folding mechanisms*
+
+![Team Photo](./images/team_photo.jpeg)
+*ITM Group-04 team with the completed project*
+
 ## Educational Value
 
 This project demonstrates:
